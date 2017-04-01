@@ -1,0 +1,6 @@
+com\seavus\bookstore\api\BookMapper.class
+com\seavus\bookstore\api\RecommendationRestController.class
+com\seavus\bookstore\api\Book.class
+com\seavus\bookstore\api\BookMapperImpl.class
+com\seavus\bookstore\api\RatingRestController.class
+com\seavus\bookstore\api\BookRestController.class

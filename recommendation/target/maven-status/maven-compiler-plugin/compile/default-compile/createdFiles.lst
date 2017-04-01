@@ -1,0 +1,4 @@
+com\seavus\bookstore\recommendation\RecommendationService.class
+com\seavus\bookstore\recommendation\Product.class
+com\seavus\bookstore\recommendation\ProductRepository.class
+com\seavus\bookstore\recommendation\ProductService.class

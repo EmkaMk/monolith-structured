@@ -1,0 +1,3 @@
+com\seavus\bookstore\recommendation\api\ProductMapperImpl.class
+com\seavus\bookstore\recommendation\api\RecommendationServiceInProcessAdapter.class
+com\seavus\bookstore\recommendation\api\ProductMapper.class

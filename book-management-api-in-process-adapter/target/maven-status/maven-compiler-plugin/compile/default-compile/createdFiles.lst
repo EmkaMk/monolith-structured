@@ -1,0 +1,3 @@
+com\seavus\bookstore\bookmanagement\api\BookMapper.class
+com\seavus\bookstore\bookmanagement\api\BookMapperImpl.class
+com\seavus\bookstore\bookmanagement\api\BookServiceInProcessAdapter.class

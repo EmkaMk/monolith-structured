@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>monolith-structured</artifactId>
+        <groupId>com.seavus.bookstore</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>book-management</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.seavus.bookstore</groupId>
+            <artifactId>book-management-event</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.seavus.karaka</groupId>
+            <artifactId>domain</artifactId>
+            <version>${karaka.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.seavus.karaka</groupId>
+            <artifactId>messaging</artifactId>
+            <version>${karaka.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.seavus.karaka</groupId>
+            <artifactId>rest-api</artifactId>
+            <version>${karaka.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.seavus.karaka</groupId>
+            <artifactId>spring-data-jpa</artifactId>
+            <version>${karaka.version}</version>
+        </dependency>
+    </dependencies>
+
+</project>

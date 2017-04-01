@@ -1,0 +1,4 @@
+com\seavus\bookstore\application\Application.class
+com\seavus\SpringBootApplicationConfig.class
+com\seavus\bookstore\application\InitialDataLoader.class
+com\seavus\bookstore\application\WebMvcConfig.class

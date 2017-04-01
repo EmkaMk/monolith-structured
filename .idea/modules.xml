@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/application.iml" filepath="$PROJECT_DIR$/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-management/book-management.iml" filepath="$PROJECT_DIR$/book-management/book-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-management-api/book-management-api.iml" filepath="$PROJECT_DIR$/book-management-api/book-management-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-management-api-in-process-adapter/book-management-api-in-process-adapter.iml" filepath="$PROJECT_DIR$/book-management-api-in-process-adapter/book-management-api-in-process-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-management-event/book-management-event.iml" filepath="$PROJECT_DIR$/book-management-event/book-management-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monolith-structured.iml" filepath="$PROJECT_DIR$/monolith-structured.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rating/rating.iml" filepath="$PROJECT_DIR$/rating/rating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rating-api/rating-api.iml" filepath="$PROJECT_DIR$/rating-api/rating-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rating-api-in-process-adapter/rating-api-in-process-adapter.iml" filepath="$PROJECT_DIR$/rating-api-in-process-adapter/rating-api-in-process-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rating-event/rating-event.iml" filepath="$PROJECT_DIR$/rating-event/rating-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rating-event-handler/rating-event-handler.iml" filepath="$PROJECT_DIR$/rating-event-handler/rating-event-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommendation/recommendation.iml" filepath="$PROJECT_DIR$/recommendation/recommendation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommendation-api/recommendation-api.iml" filepath="$PROJECT_DIR$/recommendation-api/recommendation-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommendation-api-in-process-adapter/recommendation-api-in-process-adapter.iml" filepath="$PROJECT_DIR$/recommendation-api-in-process-adapter/recommendation-api-in-process-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommendation-event-handler/recommendation-event-handler.iml" filepath="$PROJECT_DIR$/recommendation-event-handler/recommendation-event-handler.iml" />
+    </modules>
+  </component>
+</project>

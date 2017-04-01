@@ -1,0 +1,4 @@
+com\seavus\bookstore\bookmanagement\Book.class
+com\seavus\bookstore\bookmanagement\BookRepository.class
+com\seavus\bookstore\bookmanagement\BookService.class
+com\seavus\bookstore\bookmanagement\Genre.class

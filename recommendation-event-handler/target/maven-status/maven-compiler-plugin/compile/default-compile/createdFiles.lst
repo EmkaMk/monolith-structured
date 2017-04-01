@@ -1,0 +1,2 @@
+com\seavus\bookstore\recommendation\UpdateProductRatingOnProductRatedEvent.class
+com\seavus\bookstore\recommendation\CreateProductOnBookCreatedEvent.class

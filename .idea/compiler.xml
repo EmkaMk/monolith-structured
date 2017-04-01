@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for monolith-structured" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processor name="lombok.launch.AnnotationProcessorHider$AnnotationProcessor" />
+        <module name="api-gateway" />
+        <module name="application" />
+        <module name="book-management" />
+        <module name="book-management-api" />
+        <module name="book-management-api-in-process-adapter" />
+        <module name="book-management-event" />
+        <module name="rating" />
+        <module name="rating-api" />
+        <module name="rating-api-in-process-adapter" />
+        <module name="rating-event" />
+        <module name="rating-event-handler" />
+        <module name="recommendation" />
+        <module name="recommendation-api" />
+        <module name="recommendation-api-in-process-adapter" />
+        <module name="recommendation-event-handler" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.8" />
+      <module name="application" target="1.8" />
+      <module name="book-management" target="1.8" />
+      <module name="book-management-api" target="1.8" />
+      <module name="book-management-api-in-process-adapter" target="1.8" />
+      <module name="book-management-event" target="1.8" />
+      <module name="monolith-structured" target="1.8" />
+      <module name="rating" target="1.8" />
+      <module name="rating-api" target="1.8" />
+      <module name="rating-api-in-process-adapter" target="1.8" />
+      <module name="rating-event" target="1.8" />
+      <module name="rating-event-handler" target="1.8" />
+      <module name="recommendation" target="1.8" />
+      <module name="recommendation-api" target="1.8" />
+      <module name="recommendation-api-in-process-adapter" target="1.8" />
+      <module name="recommendation-event-handler" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

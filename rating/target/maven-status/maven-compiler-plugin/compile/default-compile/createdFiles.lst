@@ -1,0 +1,4 @@
+com\seavus\bookstore\rating\ProductRepository.class
+com\seavus\bookstore\rating\Product.class
+com\seavus\bookstore\rating\ProductService.class
+com\seavus\bookstore\rating\RatingService.class
